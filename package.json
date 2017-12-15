@@ -1,0 +1,11 @@
+{
+  "name": "trabalho-compilador",
+  "version": "1.0.0",
+  "description": "Pequeno compilador desenvolvido em javascript comoparte do trabalhoda disciplina de COmpiladores, Professora Amanda - UEPB - Campos VII, Patos-PB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jefferson de Souza",
+  "license": "ISC"
+}
