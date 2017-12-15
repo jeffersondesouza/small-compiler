@@ -1,6 +1,7 @@
 {
   "name": "trabalho-compilador",
   "version": "1.0.0",
+  "repository": "https://github.com/jeffersondesouza/small-compiler.git",
   "description": "Pequeno compilador desenvolvido em javascript comoparte do trabalhoda disciplina de COmpiladores, Professora Amanda - UEPB - Campos VII, Patos-PB",
   "main": "index.js",
   "scripts": {
